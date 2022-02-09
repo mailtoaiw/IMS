@@ -13,6 +13,11 @@ import ErrorSpan from "../CommonFun/errorSpan";
 import DatePicker from "react-datepicker";
 import { CheckBox } from 'devextreme-react';
 
+
+import ErrorSpan from "../CommonFun/errorSpan";
+import DatePicker from "react-datepicker";
+import { CheckBox } from 'devextreme-react';
+
 class DcMarginReport extends Component {
 
   constructor(props) {
